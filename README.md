@@ -51,7 +51,7 @@ We welcome contributions from all skill levels! If you're learning DSA or C++, t
 🔹 Clone your fork:
 
 
-git clone https://github.com/UmairDevloper/DSA-in-CPP.git
+git clone [ https://github.com/UmairDevloper/DSA-in-CPP.git](https://github.com/UmairDevloper/DSA-in-C-.git)
 🔹 Add your changes to the correct folder (e.g., Arrays/Prefix_Sum/)
 
 🔹 Commit and push:
